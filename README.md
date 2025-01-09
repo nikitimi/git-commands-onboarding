@@ -14,6 +14,8 @@ After successful login, you may access your remote Git Repository in your local 
 | [Git Locally](#git-locally)              |
 | [Git Actual Applications](#git-actually) |
 
+---
+
 #### Git Remotely
 
 Clone Remote repository to your machine:
@@ -47,6 +49,8 @@ Or if you are in the branch that you want to push you can omit origin and branch
 ```bash
     git push
 ```
+
+---
 
 #### Git Locally
 
@@ -110,6 +114,8 @@ Or to view all branch:
 
 If you want to push to your chosen Remote Git Provider go [here](#git-remotely).
 
+---
+
 #### Git Actually
 
 This section provides the actual example of git commands in action:
@@ -135,6 +141,7 @@ This section provides the actual example of git commands in action:
 ```
 
 **Cloning**
+
 _HTTPS_:
 
 ```bash
