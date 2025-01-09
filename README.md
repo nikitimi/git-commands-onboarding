@@ -16,7 +16,7 @@ After successful login, you may access your remote Git Repository in your local 
 
 ---
 
-#### Git Remotely
+## Git Remotely
 
 Clone Remote repository to your machine:
 
@@ -52,7 +52,7 @@ Or if you are in the branch that you want to push you can omit origin and branch
 
 ---
 
-#### Git Locally
+## Git Locally
 
 No Git repository is possible without this command, behold!:
 
@@ -116,7 +116,7 @@ If you want to push to your chosen Remote Git Provider go [here](#git-remotely).
 
 ---
 
-#### Git Actually
+## Git Actually
 
 This section provides the actual example of git commands in action:
 
